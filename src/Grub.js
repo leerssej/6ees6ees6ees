@@ -6,8 +6,7 @@ class Grub {
   }
 
   eat() {
-    return "Mmmmmmmmm jelly";
+    return "Mmmmmmmmm jelly"; 
   }
-
 
 }; // closes class Grub
